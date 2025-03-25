@@ -50,3 +50,6 @@ Route::get('/admin_dashboard/{page}', function ($page) {
     return view("admin_dashboard.pages.$page");
 });
 
+Route::get('/expform', function () {
+    return view("expform");
+});

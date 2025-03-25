@@ -9,6 +9,8 @@
     <link rel="stylesheet" href="{{url('CSS/aboutus.css')}}">
     <link rel="stylesheet" href="{{url('CSS/support.css')}}">
     <link rel="stylesheet" href="{{url('CSS/s_register.css')}}">
+    
+    
 
 
 
